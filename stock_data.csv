@@ -1,0 +1,5 @@
+ticker,regularMarketPrice,regularMarketChange,regularMarketChangePercent,quote,previous_close,open_value,bid,ask,days_range,week_range,volume,avg_volume,market_cap,beta,pe_ratio,eps,earnings_date,dividend_yield,ex_dividend_date,year_target_est
+NVDA,674.72,-19.80,(-2.85%),At close:  04:00PM EST,694.52,680.06,735.88 x 900,736.00 x 1100,662.49 - 688.88,204.21 - 746.11,"54,866,359",735.88 x 900,1.667T,1.68,89.25,7.56,"Feb 21, 2024",0.16 (0.02%),"Dec 05, 2023",729.74
+PINS,35.44,+0.33,(+0.94%),At close:  04:04PM EST,35.11,34.81,35.42 x 1000,35.79 x 1300,34.72 - 35.49,20.60 - 41.60,"6,980,191",35.42 x 1000,24.063B,1.02,N/A,-0.05,"Apr 25, 2024 - Apr 29, 2024",N/A (N/A),N/A,42.94
+GOOG,143.84,+1.64,(+1.15%),At close:  04:00PM EST,142.20,142.64,145.14 x 900,145.30 x 900,141.91 - 143.97,88.86 - 155.20,"16,156,864",145.14 x 900,1.781T,1.06,24.80,5.80,"Apr 23, 2024 - Apr 29, 2024",N/A (N/A),N/A,161.00
+TSLA,194.77,+1.01,(+0.52%),At close:  04:00PM EST,193.76,193.36,195.50 x 1100,196.20 x 1000,191.95 - 199.44,152.37 - 299.29,"102,998,068",195.50 x 1100,620.302B,2.43,45.30,4.30,"Apr 17, 2024 - Apr 22, 2024",N/A (N/A),N/A,207.75
